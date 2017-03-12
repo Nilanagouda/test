@@ -1,5 +1,8 @@
 public class Test {
 
-sysetm.out.println("the first program")
+public static void main (String []args)
+{
+sysetm.out.println("the first program");
 
+}
 }
